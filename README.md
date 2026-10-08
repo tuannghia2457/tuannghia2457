@@ -1,77 +1,98 @@
 # Hi, I'm Nghia 👋
 
-Backend AI Engineer | AI Student @ UTS | Research Assistant @ IVS | Co-Founder @ Odylytics
+**AI Student @ UTS | Research Assistant @ IVS | Computer Vision & Machine Learning Enthusiast**
 
-I enjoy building backend systems that power AI applications and solving real-world problems through technology. My interests span backend engineering, computer vision, robotics, and distributed systems.
+I'm an Artificial Intelligence undergraduate at the University of Technology Sydney (UTS), passionate about **Computer Vision, Deep Learning, and Applied AI Research**.
 
-Beyond software engineering, I enjoy public speaking, hosting events, and teaching English. I believe great engineers should be able to communicate ideas as effectively as they build them.
+I enjoy exploring how machines perceive and understand the world, from visual recognition and image processing to intelligent robotic systems.
+
+My goal is to bridge the gap between **AI research and real-world applications**, developing intelligent systems that are not only technically effective but also genuinely useful.
 
 ---
 
-## 🚀 Featured Experience
+## 🔬 Research & Experience
 
 ### 🤖 Research Assistant @ IVS
 
-- Computer Vision
-- Robotics
-- LiDAR-based perception
-- ROS & Ubuntu
-- Pothole surface reconstruction research
+Working on applied AI research and robotics projects involving:
+
+- **Computer Vision:** Image processing, visual perception, and geometric analysis.
+- **Robotics:** Robot navigation, perception, and simulation.
+- **3D Reconstruction:** Geometry-informed pothole surface reconstruction.
+- **LiDAR Perception:** Sensor-based environmental understanding.
+- **Development:** Python, C++, ROS, Ubuntu, and Gazebo.
 
 ### 🌊 Co-Founder @ Odylytics
 
-Building **AquaGuard**, a disaster response platform for flood preparedness and emergency coordination.
+Building technology-driven solutions to address real-world challenges.
 
-- Product strategy
-- AI integration
-- User research
-- Technical planning
+Previously contributed to **AquaGuard**, a flood preparedness and emergency coordination platform.
 
-### 💻 Web Developer
+- Product strategy and development
+- AI integration and technical planning
+- User research and problem validation
+- Cross-functional team collaboration
 
-- Supported the development of an IELTS assessment platform serving 200+ active students per month.
-- Built an automation tool using **Node.js** and **Playwright** to automate content uploads and deployment workflows.
-- Collaborated with academic staff and developers to translate educational requirements into technical solutions.
+### 💻 Web Developer @ Best Start English Center
+
+- Contributed to an IELTS assessment platform supporting **200+ students monthly**.
+- Developed automation tools using **Node.js and Playwright** to streamline content management workflows.
+- Collaborated with educators and developers to translate real-world requirements into software solutions.
+
+---
+
+## 🧠 Research Interests
+
+- **Computer Vision** — Image segmentation, object detection, visual understanding, and 3D reconstruction.
+- **Deep Learning** — Neural networks, representation learning, and visual models.
+- **Robotics & Perception** — Sensor fusion, localization, mapping, and autonomous navigation.
+- **Applied Machine Learning** — Developing and evaluating ML approaches for practical problems.
+- **AI for Social Impact** — Applying intelligent technologies to meaningful challenges.
 
 ---
 
 ## 🛠 Tech Stack
 
-## 💻 Languages
+### 💻 Programming Languages
 
-**Python** • **Go** • **C++** • **Java** • **SQL** • **JavaScript**
+**Python** • **C++** • **Java** • **Go** • **SQL** • **JavaScript**
 
-## ⚙️ Backend
+### 🤖 Machine Learning & Computer Vision
 
-**FastAPI** • **Flask** • **Node.js** • **REST APIs** • **PostgreSQL** • **Docker**
+**PyTorch** • **OpenCV** • **NumPy** • **Pandas** • **Scikit-learn**
 
-## 🤖 AI & Robotics
+### 🦾 Robotics & Simulation
 
-**PyTorch** • **OpenCV** • **ROS** • **Computer Vision**
+**ROS** • **Gazebo** • **LiDAR** • **Linux / Ubuntu**
 
-## 🛠️ Tools
+### ⚙️ Software Engineering
 
-**Linux** • **Git** • **GitHub** • **GitHub Actions**
+**Git** • **GitHub** • **Docker** • **REST APIs** • **PostgreSQL** • **Node.js**
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Currently Exploring
 
-- AI Infrastructure
-- Distributed Systems
-- Cloud Computing
-- Kubernetes
-- LLM Deployment
+- Deep Learning with PyTorch
+- Modern Computer Vision architectures
+- Visual localization and autonomous perception
+- Research methodology and scientific writing
+- Efficient training and evaluation of machine learning models
 
 ---
 
 ## 🎤 Beyond Engineering
 
-When I'm away from my keyboard, you'll probably find me:
+I believe that being a good engineer is about more than writing code. It's also about understanding problems, collaborating with people, and communicating ideas effectively.
 
-- Hosting events as an MC
-- Giving technical presentations
+Outside of research and development, I enjoy:
+
+- Public speaking and hosting events
+- Technical presentations and research discussions
 - Teaching English
-- Participating in startup pitching competitions
+- Hackathons and innovation competitions
+- Turning complex technical ideas into accessible stories
 
-I enjoy turning complex technical ideas into stories that people can easily understand.
+---
+
+*Always curious, always learning, and always building.*
