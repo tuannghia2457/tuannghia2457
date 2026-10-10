@@ -1,0 +1,212 @@
+{
+  "devicon_commit": "7330accdbc47e2dc0c19789a48533c4a3c50fe58",
+  "icons": [
+    {
+      "name": "python",
+      "file": "python.png",
+      "source": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/python/python-original.svg",
+      "size": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "cplusplus",
+      "file": "cplusplus.png",
+      "source": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/cplusplus/cplusplus-original.svg",
+      "size": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "typescript",
+      "file": "typescript.png",
+      "source": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/typescript/typescript-original.svg",
+      "size": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "javascript",
+      "file": "javascript.png",
+      "source": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/javascript/javascript-original.svg",
+      "size": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "java",
+      "file": "java.png",
+      "source": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/java/java-original.svg",
+      "size": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "pytorch",
+      "file": "pytorch.png",
+      "source": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/pytorch/pytorch-original.svg",
+      "size": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "opencv",
+      "file": "opencv.png",
+      "source": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/opencv/opencv-original.svg",
+      "size": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "react",
+      "file": "react.png",
+      "source": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/react/react-original.svg",
+      "size": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "nextjs",
+      "file": "nextjs.png",
+      "source": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/nextjs/nextjs-original.svg",
+      "size": [
+        128,
+        128
+      ],
+      "note": "Original mark on a neutral inset for contrast on light and dark GitHub themes."
+    },
+    {
+      "name": "nodejs",
+      "file": "nodejs.png",
+      "source": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/nodejs/nodejs-original.svg",
+      "size": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "express",
+      "file": "express.png",
+      "source": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/express/express-original.svg",
+      "size": [
+        128,
+        128
+      ],
+      "note": "Original mark on a neutral inset for contrast on light and dark GitHub themes."
+    },
+    {
+      "name": "postgresql",
+      "file": "postgresql.png",
+      "source": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/postgresql/postgresql-original.svg",
+      "size": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "firebase",
+      "file": "firebase.png",
+      "source": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/firebase/firebase-original.svg",
+      "size": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "git",
+      "file": "git.png",
+      "source": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/git/git-original.svg",
+      "size": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "linux",
+      "file": "linux.png",
+      "source": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/linux/linux-original.svg",
+      "size": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "docker",
+      "file": "docker.png",
+      "source": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/docker/docker-original.svg",
+      "size": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "playwright",
+      "file": "playwright.png",
+      "source": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/playwright/playwright-original.svg",
+      "size": [
+        128,
+        128
+      ]
+    },
+    {
+      "name": "ros",
+      "file": "ros.png",
+      "source": "https://raw.githubusercontent.com/ros-infrastructure/artwork/4024191d62211c4d4fa024e9974dd372d92aa23a/ros_logo.svg",
+      "size": [
+        128,
+        128
+      ],
+      "note": "Original mark on a neutral inset for contrast on light and dark GitHub themes."
+    },
+    {
+      "name": "nav2",
+      "file": "nav2.png",
+      "source": "https://raw.githubusercontent.com/ros-navigation/docs.nav2.org/76849a4062be342499889f4442838d6ecca77046/overrides/.icons/toggle/nav2-balloon-dark.svg",
+      "size": [
+        128,
+        128
+      ],
+      "note": "Original mark on a neutral inset for contrast on light and dark GitHub themes."
+    },
+    {
+      "name": "gazebo",
+      "file": "gazebo.png",
+      "source": "https://app.gazebosim.org/assets/images/gazebo_icon_white.svg",
+      "size": [
+        128,
+        128
+      ],
+      "note": "Original mark on a neutral inset for contrast on light and dark GitHub themes."
+    },
+    {
+      "name": "mediapipe",
+      "file": "mediapipe.png",
+      "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/98820a4dc8c363ca72fa2c0d294ea4a0a9bba75d/icons/mediapipe.svg",
+      "size": [
+        128,
+        128
+      ],
+      "brand_source": "https://developers.google.com/static/mediapipe/images/mediapipe_icon.svg",
+      "brand_hex": "0097A7",
+      "upstream_commit": "98820a4dc8c363ca72fa2c0d294ea4a0a9bba75d",
+      "note": "Upstream Simple Icons silhouette with canonical brand fill from upstream metadata."
+    },
+    {
+      "name": "sql",
+      "file": "sql.png",
+      "size": [
+        128,
+        128
+      ],
+      "source": "Original generic database glyph; SQL has no single vendor logo."
+    }
+  ]
+}
