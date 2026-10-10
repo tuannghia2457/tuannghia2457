@@ -1,6 +1,6 @@
 # Technology icons
 
-Local PNG exports of upstream technology marks. The README uses icons at 32px; source files are 128px for sharp rendering. Original artwork and colors are preserved, with neutral insets on marks that need contrast in both GitHub themes.
+Local PNG exports of upstream technology marks. The README uses icons at 20px alongside technology names; source files are 128px for sharp rendering. Original artwork and colors are preserved, with neutral insets on marks that need contrast in both GitHub themes.
 
 - Python, C++, TypeScript, JavaScript, Java, PyTorch, OpenCV, React, Next.js, Node.js, Express, PostgreSQL, Firebase, Git, Linux, Docker and Playwright: [Devicon](https://github.com/devicons/devicon/tree/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons), covered by [the included MIT license](./LICENSE-devicon.txt).
 - MediaPipe: [Simple Icons](https://github.com/simple-icons/simple-icons/blob/98820a4dc8c363ca72fa2c0d294ea4a0a9bba75d/icons/mediapipe.svg), using the official brand color `#0097A7`; [CC0 license](./LICENSE-simple-icons.txt).

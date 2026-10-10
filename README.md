@@ -45,29 +45,12 @@ Exploring canopy features and geometric matching to estimate UAV position in for
 
 ## Tech stack
 
-**Languages**
-
-<p><img src="./assets/icons/python.png" width="32" height="32" alt="Python" title="Python" /> &nbsp; <img src="./assets/icons/cplusplus.png" width="32" height="32" alt="C++" title="C++" /> &nbsp; <img src="./assets/icons/typescript.png" width="32" height="32" alt="TypeScript" title="TypeScript" /> &nbsp; <img src="./assets/icons/javascript.png" width="32" height="32" alt="JavaScript" title="JavaScript" /> &nbsp; <img src="./assets/icons/java.png" width="32" height="32" alt="Java" title="Java" /> &nbsp; <img src="./assets/icons/sql.png" width="32" height="32" alt="SQL" title="SQL" /></p>
-
-Python · C++ · TypeScript · JavaScript · Java · SQL
-
-**AI, vision & robotics**
-
-<p><img src="./assets/icons/pytorch.png" width="32" height="32" alt="PyTorch" title="PyTorch" /> &nbsp; <img src="./assets/icons/opencv.png" width="32" height="32" alt="OpenCV" title="OpenCV" /> &nbsp; <img src="./assets/icons/mediapipe.png" width="32" height="32" alt="MediaPipe" title="MediaPipe" /> &nbsp; <img src="./assets/icons/ros.png" width="32" height="32" alt="ROS 2" title="ROS 2" /> &nbsp; <img src="./assets/icons/nav2.png" width="32" height="32" alt="Nav2" title="Nav2" /> &nbsp; <img src="./assets/icons/gazebo.png" width="32" height="32" alt="Gazebo" title="Gazebo" /></p>
-
-PyTorch · OpenCV · MediaPipe · ROS 2 · Nav2 · Gazebo · RViz
-
-**Web & backend**
-
-<p><img src="./assets/icons/react.png" width="32" height="32" alt="React" title="React" /> &nbsp; <img src="./assets/icons/nextjs.png" width="32" height="32" alt="Next.js" title="Next.js" /> &nbsp; <img src="./assets/icons/nodejs.png" width="32" height="32" alt="Node.js" title="Node.js" /> &nbsp; <img src="./assets/icons/express.png" width="32" height="32" alt="Express" title="Express" /> &nbsp; <img src="./assets/icons/postgresql.png" width="32" height="32" alt="PostgreSQL" title="PostgreSQL" /> &nbsp; <img src="./assets/icons/firebase.png" width="32" height="32" alt="Firebase" title="Firebase" /></p>
-
-React · Next.js · Node.js · Express · PostgreSQL · Firebase
-
-**Development**
-
-<p><img src="./assets/icons/git.png" width="32" height="32" alt="Git" title="Git" /> &nbsp; <img src="./assets/icons/linux.png" width="32" height="32" alt="Linux" title="Linux" /> &nbsp; <img src="./assets/icons/docker.png" width="32" height="32" alt="Docker" title="Docker" /> &nbsp; <img src="./assets/icons/playwright.png" width="32" height="32" alt="Playwright" title="Playwright" /></p>
-
-Git · Linux · Docker · Playwright
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | <img src="./assets/icons/python.png" width="20" height="20" alt="" />&nbsp;Python &nbsp; · &nbsp; <img src="./assets/icons/cplusplus.png" width="20" height="20" alt="" />&nbsp;C++ &nbsp; · &nbsp; <img src="./assets/icons/typescript.png" width="20" height="20" alt="" />&nbsp;TypeScript &nbsp; · &nbsp; <img src="./assets/icons/javascript.png" width="20" height="20" alt="" />&nbsp;JavaScript &nbsp; · &nbsp; <img src="./assets/icons/java.png" width="20" height="20" alt="" />&nbsp;Java &nbsp; · &nbsp; <img src="./assets/icons/sql.png" width="20" height="20" alt="" />&nbsp;SQL |
+| **AI, vision & robotics** | <img src="./assets/icons/pytorch.png" width="20" height="20" alt="" />&nbsp;PyTorch &nbsp; · &nbsp; <img src="./assets/icons/opencv.png" width="20" height="20" alt="" />&nbsp;OpenCV &nbsp; · &nbsp; <img src="./assets/icons/mediapipe.png" width="20" height="20" alt="" />&nbsp;MediaPipe &nbsp; · &nbsp; <img src="./assets/icons/ros.png" width="20" height="20" alt="" />&nbsp;ROS&nbsp;2 &nbsp; · &nbsp; <img src="./assets/icons/nav2.png" width="20" height="20" alt="" />&nbsp;Nav2 &nbsp; · &nbsp; <img src="./assets/icons/gazebo.png" width="20" height="20" alt="" />&nbsp;Gazebo &nbsp; · &nbsp; RViz |
+| **Web & backend** | <img src="./assets/icons/react.png" width="20" height="20" alt="" />&nbsp;React &nbsp; · &nbsp; <img src="./assets/icons/nextjs.png" width="20" height="20" alt="" />&nbsp;Next.js &nbsp; · &nbsp; <img src="./assets/icons/nodejs.png" width="20" height="20" alt="" />&nbsp;Node.js &nbsp; · &nbsp; <img src="./assets/icons/express.png" width="20" height="20" alt="" />&nbsp;Express &nbsp; · &nbsp; <img src="./assets/icons/postgresql.png" width="20" height="20" alt="" />&nbsp;PostgreSQL &nbsp; · &nbsp; <img src="./assets/icons/firebase.png" width="20" height="20" alt="" />&nbsp;Firebase |
+| **Development** | <img src="./assets/icons/git.png" width="20" height="20" alt="" />&nbsp;Git &nbsp; · &nbsp; <img src="./assets/icons/linux.png" width="20" height="20" alt="" />&nbsp;Linux &nbsp; · &nbsp; <img src="./assets/icons/docker.png" width="20" height="20" alt="" />&nbsp;Docker &nbsp; · &nbsp; <img src="./assets/icons/playwright.png" width="20" height="20" alt="" />&nbsp;Playwright |
 
 ## Research & recognition
 
