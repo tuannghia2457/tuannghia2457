@@ -1,14 +1,12 @@
 <!-- GitHub Profile README | github.com/tuannghia2457 -->
-<!-- Upload README.md and the assets/ directory together. -->
 
 <div align="center">
 
-<img width="100%" src="./assets/header.svg" alt="Tran Tuan Nghia profile header" />
+<img width="100%" src="./assets/header.svg" alt="Tran Tuan Nghia — software engineer based in Ho Chi Minh City" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2900&pause=900&color=58D7FF&center=true&vCenter=true&width=730&lines=Turning+perception+into+real-world+impact.;Building+human-centered+AI+systems.;Researching+robots%2C+vision+%26+intelligent+software.;Curious+mind.+Builder+mindset." alt="Animated introduction" /></a>
+**AI Undergraduate @ UTS** · **Computer Vision & Robotics Research Assistant @ IVS**
 
-**AI Undergraduate @ UTS** &nbsp;·&nbsp; **Computer Vision & Robotics Research Assistant @ IVS**  
-**Co-Founder @ Odylytics** &nbsp;·&nbsp; Ho Chi Minh City, Vietnam 🇻🇳
+**Co-Founder @ Odylytics**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuannghia2457/)
 [![Odylytics](https://img.shields.io/badge/Odylytics-151C35?style=for-the-badge&logo=googlechrome&logoColor=white)](https://odylytics.com/)
@@ -16,43 +14,9 @@
 
 </div>
 
----
+### `> about`
 
-<img width="100%" src="./assets/about.svg" alt="About Tran Tuan Nghia" />
-
-### `> whoami`
-
-I'm **Nghia**, an Artificial Intelligence undergraduate at the **University of Technology Sydney (UTS)**, interested in making machines **see, reason, and act** in the real world.
-
-At **IVS**, I contribute to research and experiments in **computer vision, robotics, LiDAR-based perception, mapping, and robot/UAV navigation**. Beyond research, I love building useful software and translating ambitious ideas into human-centered products.
-
-```python
-class Nghia:
-    focus = ["Computer Vision", "Robotics", "Applied AI"]
-    building = ["Intelligent perception", "Useful software", "Tech for good"]
-    currently = "Learning, researching, and shipping"
-
-    def mission(self):
-        return "Make intelligent systems useful beyond the lab."
-```
-
-<img width="100%" src="./assets/skills.svg" alt="Animated technology stack graphic" />
-
-### `> tech_stack --by-domain`
-
-**Languages & core engineering**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**AI, perception & robotics**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white) ![Gazebo](https://img.shields.io/badge/Gazebo-FFB000?style=flat-square&logo=robotframework&logoColor=black) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-**Web, automation & developer tools**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-<sub>Hands-on experience and active learning areas; not a claim of expertise in every tool.</sub>
+I work on perception and navigation for robots and UAVs, with interests in **computer vision, LiDAR, mapping, and geometric reasoning**. Alongside research, I build software for people: flood-response tools, a focus companion, and small experiments that help me learn how intelligent systems work.
 
 ### `> featured_projects`
 
@@ -60,62 +24,88 @@ class Nghia:
 <tr>
 <td width="50%" valign="top">
 
-### 🌊 [AquaGuard](https://aquaguard.vn/)
-**Flood Alert & Rescue Coordination**
+#### 🌊 AquaGuard
 
-A web and iOS platform connecting citizens, rescuers, and communities through flood alerts, SOS requests, and coordinated emergency response.
+**Flood alerts & rescue coordination**
 
-`React` · `Node.js` · `Express` · `Firebase`
+A team project connecting citizens, rescuers, and administrators through flood maps, GPS-based SOS requests, live rescue tracking, and family safety updates.
 
-[**Live Platform ↗**](https://aquaguard.vn/) · [**Source ↗**](https://github.com/tuannghia2457/AquaGuard-WebApp)
+`React` · `Node.js` · `Express` · `PostgreSQL` · `Firebase`
+
+[**Live platform ↗**](https://aquaguard.vn/) · [**Web source ↗**](https://github.com/tuannghia2457/AquaGuard-WebApp)
 
 </td>
 <td width="50%" valign="top">
 
-### 🛰️ UAV Localization
-**Vision-Based Navigation Without GNSS**
+#### 🧠 VirtualDouble / ANT
 
-Research prototype exploring canopy-region segmentation, generalized Voronoi geometry, and descriptor-based matching for UAV localization in challenging forest environments.
+**A focus companion with browser-side vision**
 
-`C++` · `Python` · `CGAL` · `Computer Vision`
+A hackathon project with optional, on-device face landmarks, supportive check-ins, task breakdown, a floating focus window, and a recovery workspace. Camera frames stay on the device.
 
-*Research code private · Technical overview only*
+`Next.js` · `TypeScript` · `MediaPipe` · `Web Audio`
+
+[**Live demo ↗**](https://adc-hackathon-ant.vercel.app/) · [**Source ↗**](https://github.com/tuannghia2457/Hackathon-ANT)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 [VirtualDouble](https://github.com/tuannghia2457/Hackathon-ANT)
-**AI-Powered Cognitive Body Double**
+#### 🤖 Robot Navigation & Pure Pursuit
 
-A privacy-conscious focus companion with opt-in, on-device vision cues, supportive check-ins, adaptive task breakdown, and distraction recovery.
+**ROS 2 / Nav2 learning project**
 
-`Next.js` · `MediaPipe` · `Browser-side CV` · `AI`
+A custom Pure Pursuit controller plugin, navigation goal and patrol clients, and a benchmark node measuring travel time and distance across repeated trials.
 
-[**Explore Project ↗**](https://github.com/tuannghia2457/Hackathon-ANT)
+`C++` · `ROS 2` · `Nav2` · `TurtleBot3`
+
+[**Explore source ↗**](https://github.com/tuannghia2457/btvn03_tuannghia_ivs)
 
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ What I Love Building
-**Research × Engineering × Impact**
+#### 🛠️ AI Code Assistant
 
-Projects that connect perception, geometry, intelligent software, and thoughtful product design — from autonomous systems to tools that help people.
+**Tool-calling agent from a Boot.dev learning project**
 
-`Robotics` · `Applied AI` · `Backend Systems`
+A Python CLI that connects an LLM to tools for listing, reading, and writing files and running Python code, with a bounded conversation loop and verbose usage output.
 
-[**More repositories ↗**](https://github.com/tuannghia2457?tab=repositories)
+`Python` · `OpenRouter` · `Tool calling`
+
+[**Explore source ↗**](https://github.com/tuannghia2457/bootdev_agenticai)
 
 </td>
 </tr>
 </table>
 
-<details>
-<summary><b>📌 GitHub pinned repos vs. private research</b></summary>
-<br/>
-Public projects can be pinned directly on GitHub. Private research is presented above as a project description rather than a broken or inaccessible repository link. Please only disclose research details approved by the project owners.
-</details>
+### `> more_projects`
+
+| Project | What it explores | Stack |
+| :--- | :--- | :--- |
+| [**Ackermann Kinematics & Lifecycle**](https://github.com/tuannghia2457/btvn04_tuannghia_ivs) | Steering geometry, odometry, lifecycle management, and simulations of sensor noise and motion models. | C++, Python, ROS 2 |
+| [**Distance Warning System**](https://github.com/tuannghia2457/btvn02_tuannghia_ivs) | Distance monitoring with publishers/subscribers, adjustable thresholds, services, actions, QoS, and TF. | C++, ROS 2 Humble |
+| [**Asteroids**](https://github.com/tuannghia2457/bootdev_asteroids) | A Boot.dev game project with a frame-based update loop, sprite groups, shooting, collision detection, and asteroid splitting. | Python, Pygame |
+| [**AquaGuard Business Model Canvas**](https://github.com/tuannghia2457/BMC_AquaGuard) | A web presentation of the project's business model and phased product roadmap. | HTML |
+| [**NeetCode Submissions**](https://github.com/tuannghia2457/neetcode-submissions) | Practice with algorithms, data structures, and problem solving. | Python |
+
+[**Browse all public repositories ↗**](https://github.com/tuannghia2457?tab=repositories)
+
+### `> research`
+
+**UAV localization without GNSS** — Exploring canopy-region segmentation, generalized Voronoi geometry, and descriptor matching for navigation in forest environments, using C++, Python, and CGAL. The research repository is private.
+
+**Pothole surface reconstruction** — Research presented at CTMIA 2026.
+
+### `> tech_stack`
+
+| Area | Languages & tools |
+| :--- | :--- |
+| Languages | Python · C++ · TypeScript · JavaScript · Java · SQL |
+| AI & computer vision | PyTorch · OpenCV · MediaPipe |
+| Robotics & simulation | ROS 2 · Nav2 · Gazebo · RViz |
+| Web & backend | React · Next.js · Node.js · Express · PostgreSQL · Firebase |
+| Development | Git · Linux · Docker · Playwright |
 
 ### `> milestones`
 
@@ -124,25 +114,21 @@ Public projects can be pinned directly on GitHub. Private research is presented 
 | 🏆 **EPICS Season 8** | **1st Place** — AquaGuard (2026) |
 | 🥈 **Bach Khoa Innovation** | **First Runner-Up** — AquaGuard (2026) |
 | 🎓 **UTS Dean's List** | Academic achievement (2026) |
-| 🎤 **CTMIA 2026** | Research presenter — pothole surface reconstruction |
 | 🌏 **InnoStars & Leave a Nest** | Finalist — AquaGuard (2026) |
 
-### `> current_focus`
+### `> currently_learning`
 
-- 🔭 Exploring **computer vision, geometric reasoning, and autonomous navigation**
-- 🧠 Developing a deeper foundation in **deep learning and PyTorch**
-- 🏗️ Building stronger **backend engineering and AI system design** skills
-- 📚 Learning how to turn **research ideas into reproducible systems**
-
-<img width="100%" src="./assets/gh-stats.svg" alt="GitHub statistics illustration (static snapshot)" />
+- Deepening my understanding of **deep learning and PyTorch** through experiments and [course exercises](https://github.com/tuannghia2457/pytorch-deep-learning).
+- Improving **backend architecture** and the reliability of AI-enabled applications.
+- Turning research prototypes into **reproducible experiments** with clear evaluation and documentation.
 
 ### `> github_activity`
 
 <div align="center">
 
-<!-- Public GitHub stats endpoints can occasionally be rate-limited. -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tuannghia2457&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub statistics" />
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuannghia2457&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" alt="Top GitHub languages" />
+<!-- These cards are generated by an external service and may be temporarily unavailable. -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tuannghia2457&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub statistics for tuannghia2457" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuannghia2457&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" alt="Languages used in public GitHub repositories" />
 
 </div>
 
@@ -150,10 +136,6 @@ Public projects can be pinned directly on GitHub. Private research is presented 
 
 <div align="center">
 
-**I like projects that live somewhere between research papers and real people.**
-
-*See something interesting? Let's connect and build.*
-
-<img width="100%" src="./assets/footer.svg" alt="Profile footer" />
+<img width="100%" src="./assets/footer.svg" alt="Made with heart by Tran Tuan Nghia" />
 
 </div>
