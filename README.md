@@ -1,4 +1,4 @@
-<!-- GitHub Profile README · Replace YOUR_GITHUB_USERNAME before publishing -->
+<!-- GitHub Profile README | github.com/tuannghia2457 -->
 
 <div align="center">
 
@@ -49,54 +49,68 @@ class Nghia:
 
 <sub>Hands-on experience and active learning areas; not a claim of expertise in every tool.</sub>
 
-### `> featured_work`
+### `> featured_projects`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🌊 [AquaGuard](https://aquaguard.vn/)**  
-*Flood-response & rescue coordination platform*
+### 🌊 [AquaGuard](https://aquaguard.vn/)
+**Flood Alert & Rescue Coordination**
 
-A web + iOS platform designed to support flood alerts, safety information, and community rescue coordination.
+A web and iOS platform connecting citizens, rescuers, and communities through flood alerts, SOS requests, and coordinated emergency response.
 
-`Tech for Good` · `Product Development` · `Human-Centered Design`
+`React` · `Node.js` · `Express` · `Firebase`
+
+[**Live Platform ↗**](https://aquaguard.vn/) · [**Source ↗**](https://github.com/tuannghia2457/AquaGuard-WebApp)
 
 </td>
 <td width="50%" valign="top">
 
-**🤖 Computer Vision & Robotics @ IVS**  
-*Perception for autonomous systems*
+### 🛰️ UAV Localization
+**Vision-Based Navigation Without GNSS**
 
-Research and experiments involving LiDAR perception, path planning, pothole surface reconstruction, mapping, and robot/UAV navigation.
+Research prototype exploring canopy-region segmentation, generalized Voronoi geometry, and descriptor-based matching for UAV localization in challenging forest environments.
 
-`C++` · `ROS` · `Gazebo` · `LiDAR`
+`C++` · `Python` · `CGAL` · `Computer Vision`
+
+*Research code private · Technical overview only*
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**🛰️ UAV Localization Research**  
-*Navigation in challenging environments*
+### 🧠 [VirtualDouble](https://github.com/tuannghia2457/Hackathon-ANT)
+**AI-Powered Cognitive Body Double**
 
-Exploring vision- and geometry-based localization workflows for aerial navigation in GNSS-denied environments.
+A privacy-conscious focus companion with opt-in, on-device vision cues, supportive check-ins, adaptive task breakdown, and distraction recovery.
 
-`Computer Vision` · `Geometry` · `C++`
+`Next.js` · `MediaPipe` · `Browser-side CV` · `AI`
+
+[**Explore Project ↗**](https://github.com/tuannghia2457/Hackathon-ANT)
 
 </td>
 <td width="50%" valign="top">
 
-**📄 Pothole Surface Reconstruction**  
-*Research presented at CTMIA 2026*
+### ⚙️ What I Love Building
+**Research × Engineering × Impact**
 
-Contributed to work on geometry-informed pothole reconstruction using a depth function and monotonic neural networks.
+Projects that connect perception, geometry, intelligent software, and thoughtful product design — from autonomous systems to tools that help people.
 
-`Research` · `3D Geometry` · `Robotics`
+`Robotics` · `Applied AI` · `Backend Systems`
+
+[**More repositories ↗**](https://github.com/tuannghia2457?tab=repositories)
 
 </td>
 </tr>
 </table>
+
+<details>
+<summary><b>📌 GitHub pinned repos vs. private research</b></summary>
+<br/>
+Public projects can be pinned directly on GitHub. Private research is presented above as a project description rather than a broken or inaccessible repository link. Please only disclose research details approved by the project owners.
+</details>
 
 ### `> milestones`
 
@@ -119,9 +133,9 @@ Contributed to work on geometry-informed pothole reconstruction using a depth fu
 
 <div align="center">
 
-<!-- Replace YOUR_GITHUB_USERNAME in both image URLs below. Public stat endpoints can sometimes be rate-limited. -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub statistics" />
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" alt="Top GitHub languages" />
+<!-- Public GitHub stats endpoints can occasionally be rate-limited. -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tuannghia2457&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub statistics" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuannghia2457&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" alt="Top GitHub languages" />
 
 </div>
 
