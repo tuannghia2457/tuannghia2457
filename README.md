@@ -16,7 +16,7 @@
 
 ### `> about`
 
-I work on perception and navigation for robots and UAVs, with interests in **computer vision, LiDAR, mapping, and geometric reasoning**. Alongside research, I build software for people: flood-response tools, a focus companion, and small experiments that help me learn how intelligent systems work.
+I work on perception and navigation for robots and UAVs, with interests in **computer vision, LiDAR, mapping, and geometric reasoning**. Alongside research, I build software that supports disaster response and everyday focus.
 
 ### `> featured_projects`
 
@@ -32,7 +32,7 @@ A team project connecting citizens, rescuers, and administrators through flood m
 
 `React` · `Node.js` · `Express` · `PostgreSQL` · `Firebase`
 
-[**Live platform ↗**](https://aquaguard.vn/) · [**Web source ↗**](https://github.com/tuannghia2457/AquaGuard-WebApp)
+[**Live platform ↗**](https://aquaguard.vn/) · [**Web source ↗**](https://github.com/tuannghia2457/AquaGuard-WebApp) · [**Business model ↗**](https://github.com/tuannghia2457/BMC_AquaGuard)
 
 </td>
 <td width="50%" valign="top">
@@ -50,50 +50,21 @@ A hackathon project with optional, on-device face landmarks, supportive check-in
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
-#### 🤖 Robot Navigation & Pure Pursuit
+#### 🛰️ UAV Localization
 
-**ROS 2 / Nav2 learning project**
+**Research prototype · In progress**
 
-A custom Pure Pursuit controller plugin, navigation goal and patrol clients, and a benchmark node measuring travel time and distance across repeated trials.
+Exploring vision-based UAV localization in forest environments where GNSS is unavailable or unreliable, using canopy features and geometric matching to estimate position.
 
-`C++` · `ROS 2` · `Nav2` · `TurtleBot3`
-
-[**Explore source ↗**](https://github.com/tuannghia2457/btvn03_tuannghia_ivs)
-
-</td>
-<td width="50%" valign="top">
-
-#### 🛠️ AI Code Assistant
-
-**Tool-calling agent from a Boot.dev learning project**
-
-A Python CLI that connects an LLM to tools for listing, reading, and writing files and running Python code, with a bounded conversation loop and verbose usage output.
-
-`Python` · `OpenRouter` · `Tool calling`
-
-[**Explore source ↗**](https://github.com/tuannghia2457/bootdev_agenticai)
+`C++` · `Python` · `Computer Vision` · `Geometry`
 
 </td>
 </tr>
 </table>
 
-### `> more_projects`
-
-| Project | What it explores | Stack |
-| :--- | :--- | :--- |
-| [**Ackermann Kinematics & Lifecycle**](https://github.com/tuannghia2457/btvn04_tuannghia_ivs) | Steering geometry, odometry, lifecycle management, and simulations of sensor noise and motion models. | C++, Python, ROS 2 |
-| [**Distance Warning System**](https://github.com/tuannghia2457/btvn02_tuannghia_ivs) | Distance monitoring with publishers/subscribers, adjustable thresholds, services, actions, QoS, and TF. | C++, ROS 2 Humble |
-| [**Asteroids**](https://github.com/tuannghia2457/bootdev_asteroids) | A Boot.dev game project with a frame-based update loop, sprite groups, shooting, collision detection, and asteroid splitting. | Python, Pygame |
-| [**AquaGuard Business Model Canvas**](https://github.com/tuannghia2457/BMC_AquaGuard) | A web presentation of the project's business model and phased product roadmap. | HTML |
-| [**NeetCode Submissions**](https://github.com/tuannghia2457/neetcode-submissions) | Practice with algorithms, data structures, and problem solving. | Python |
-
-[**Browse all public repositories ↗**](https://github.com/tuannghia2457?tab=repositories)
-
 ### `> research`
-
-**UAV localization without GNSS** — Exploring canopy-region segmentation, generalized Voronoi geometry, and descriptor matching for navigation in forest environments, using C++, Python, and CGAL. The research repository is private.
 
 **Pothole surface reconstruction** — Research presented at CTMIA 2026.
 
@@ -116,10 +87,9 @@ A Python CLI that connects an LLM to tools for listing, reading, and writing fil
 | 🎓 **UTS Dean's List** | Academic achievement (2026) |
 | 🌏 **InnoStars & Leave a Nest** | Finalist — AquaGuard (2026) |
 
-### `> currently_learning`
+### `> current_focus`
 
-- Deepening my understanding of **deep learning and PyTorch** through experiments and [course exercises](https://github.com/tuannghia2457/pytorch-deep-learning).
-- Improving **backend architecture** and the reliability of AI-enabled applications.
+- Building reliable **backend services** for AI-enabled applications.
 - Turning research prototypes into **reproducible experiments** with clear evaluation and documentation.
 
 ### `> github_activity`
