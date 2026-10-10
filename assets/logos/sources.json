@@ -1,0 +1,227 @@
+{
+  "devicon_commit": "7330accdbc47e2dc0c19789a48533c4a3c50fe58",
+  "logos": [
+    {
+      "name": "python",
+      "file": "python.svg",
+      "source": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/python/python-original.svg",
+      "viewBox": "0 0 128 128",
+      "bytes": 2300,
+      "external_refs": [],
+      "embedded_raster_images": 0,
+      "has_script": false
+    },
+    {
+      "name": "cplusplus",
+      "file": "cplusplus.svg",
+      "source": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/cplusplus/cplusplus-original.svg",
+      "viewBox": "0 0 128 128",
+      "bytes": 1143,
+      "external_refs": [],
+      "embedded_raster_images": 0,
+      "has_script": false
+    },
+    {
+      "name": "typescript",
+      "file": "typescript.svg",
+      "source": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/typescript/typescript-original.svg",
+      "viewBox": "0 0 128 128",
+      "bytes": 943,
+      "external_refs": [],
+      "embedded_raster_images": 0,
+      "has_script": false
+    },
+    {
+      "name": "javascript",
+      "file": "javascript.svg",
+      "source": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/javascript/javascript-original.svg",
+      "viewBox": "0 0 128 128",
+      "bytes": 1144,
+      "external_refs": [],
+      "embedded_raster_images": 0,
+      "has_script": false
+    },
+    {
+      "name": "java",
+      "file": "java.svg",
+      "source": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/java/java-original.svg",
+      "viewBox": "0 0 128 128",
+      "bytes": 1540,
+      "external_refs": [],
+      "embedded_raster_images": 0,
+      "has_script": false
+    },
+    {
+      "name": "pytorch",
+      "file": "pytorch.svg",
+      "source": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/pytorch/pytorch-original.svg",
+      "viewBox": "0 0 128 128",
+      "bytes": 404,
+      "external_refs": [],
+      "embedded_raster_images": 0,
+      "has_script": false
+    },
+    {
+      "name": "opencv",
+      "file": "opencv.svg",
+      "source": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/opencv/opencv-original.svg",
+      "viewBox": "0 0 128 128",
+      "bytes": 1238,
+      "external_refs": [],
+      "embedded_raster_images": 0,
+      "has_script": false
+    },
+    {
+      "name": "react",
+      "file": "react.svg",
+      "source": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/react/react-original.svg",
+      "viewBox": "0 0 128 128",
+      "bytes": 2387,
+      "external_refs": [],
+      "embedded_raster_images": 0,
+      "has_script": false
+    },
+    {
+      "name": "nextjs",
+      "file": "nextjs.svg",
+      "source": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/nextjs/nextjs-original.svg",
+      "viewBox": "0 0 128 128",
+      "bytes": 749,
+      "external_refs": [],
+      "embedded_raster_images": 0,
+      "has_script": false
+    },
+    {
+      "name": "nodejs",
+      "file": "nodejs.svg",
+      "source": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/nodejs/nodejs-original.svg",
+      "viewBox": "0 0 128 128",
+      "bytes": 1806,
+      "external_refs": [],
+      "embedded_raster_images": 0,
+      "has_script": false
+    },
+    {
+      "name": "express",
+      "file": "express.svg",
+      "source": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/express/express-original.svg",
+      "viewBox": "0 0 128 128",
+      "bytes": 914,
+      "external_refs": [],
+      "embedded_raster_images": 0,
+      "has_script": false
+    },
+    {
+      "name": "postgresql",
+      "file": "postgresql.svg",
+      "source": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/postgresql/postgresql-original.svg",
+      "viewBox": "0 0 128 128",
+      "bytes": 9178,
+      "external_refs": [],
+      "embedded_raster_images": 0,
+      "has_script": false
+    },
+    {
+      "name": "firebase",
+      "file": "firebase.svg",
+      "source": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/firebase/firebase-original.svg",
+      "viewBox": "0 0 128 128",
+      "bytes": 1170,
+      "external_refs": [],
+      "embedded_raster_images": 0,
+      "has_script": false
+    },
+    {
+      "name": "git",
+      "file": "git.svg",
+      "source": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/git/git-original.svg",
+      "viewBox": "0 0 128 128",
+      "bytes": 778,
+      "external_refs": [],
+      "embedded_raster_images": 0,
+      "has_script": false
+    },
+    {
+      "name": "linux",
+      "file": "linux.svg",
+      "source": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/linux/linux-original.svg",
+      "viewBox": "0 0 128 128",
+      "bytes": 193922,
+      "external_refs": [],
+      "embedded_raster_images": 0,
+      "has_script": false
+    },
+    {
+      "name": "docker",
+      "file": "docker.svg",
+      "source": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/docker/docker-original.svg",
+      "viewBox": "0 0 128 128",
+      "bytes": 4452,
+      "external_refs": [],
+      "embedded_raster_images": 0,
+      "has_script": false
+    },
+    {
+      "name": "playwright",
+      "file": "playwright.svg",
+      "source": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/playwright/playwright-original.svg",
+      "viewBox": "0 0 128 128",
+      "bytes": 3760,
+      "external_refs": [],
+      "embedded_raster_images": 0,
+      "has_script": false
+    },
+    {
+      "name": "ros",
+      "file": "ros.svg",
+      "source": "https://raw.githubusercontent.com/ros-infrastructure/artwork/4024191d62211c4d4fa024e9974dd372d92aa23a/ros_logo.svg",
+      "viewBox": "0 0 482.5625 127.625",
+      "width": "482.5625",
+      "height": "127.625",
+      "bytes": 5154,
+      "external_refs": [],
+      "embedded_raster_images": 0,
+      "has_script": false
+    },
+    {
+      "name": "nav2",
+      "file": "nav2.svg",
+      "source": "https://raw.githubusercontent.com/ros-navigation/docs.nav2.org/76849a4062be342499889f4442838d6ecca77046/overrides/.icons/toggle/nav2-balloon-dark.svg",
+      "viewBox": "0 0 336.64001 427.51999",
+      "width": "336.64001",
+      "height": "427.51999",
+      "bytes": 88397,
+      "external_refs": [],
+      "embedded_raster_images": 1,
+      "has_script": false
+    },
+    {
+      "name": "gazebo",
+      "file": "gazebo.svg",
+      "source": "https://app.gazebosim.org/assets/images/gazebo_icon_white.svg",
+      "viewBox": null,
+      "width": "300",
+      "height": "300",
+      "bytes": 2525,
+      "external_refs": [],
+      "embedded_raster_images": 0,
+      "has_script": false
+    },
+    {
+      "name": "mediapipe",
+      "file": "mediapipe.svg",
+      "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/98820a4dc8c363ca72fa2c0d294ea4a0a9bba75d/icons/mediapipe.svg",
+      "brand_source": "https://developers.google.com/static/mediapipe/images/mediapipe_icon.svg",
+      "brand_hex": "0097A7",
+      "viewBox": "0 0 24 24",
+      "bytes": 957,
+      "external_refs": [],
+      "embedded_raster_images": 0,
+      "has_script": false,
+      "upstream_repository": "simple-icons/simple-icons",
+      "upstream_commit": "98820a4dc8c363ca72fa2c0d294ea4a0a9bba75d",
+      "applied_brand_fill": "#0097A7",
+      "note": "Upstream Simple Icons silhouette with canonical brand fill from upstream metadata."
+    }
+  ]
+}

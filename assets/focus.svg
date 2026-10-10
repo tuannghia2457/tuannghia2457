@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="270" viewBox="0 0 390 270" role="img">
+  <title>Current focus</title>
+  <desc>Building reliable backend services for AI-enabled applications and reproducible research experiments with clear evaluation and documentation.</desc>
+  <rect width="390" height="270" rx="14" fill="#0d0d10" />
+  <path d="M342 22h20v20" stroke="#dc2626" stroke-width="1.5" fill="none" opacity="0.7" />
+  <path d="M26 28h12" stroke="#dc2626" stroke-width="2" />
+  <text x="48" y="32" fill="#a5a5b3" font-size="12" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-weight="400" letter-spacing="0.7">CURRENT FOCUS</text>
+  <text x="26" y="76" fill="#f7f7fb" font-size="29" font-family="Inter, system-ui, sans-serif" font-weight="650">Research → software.</text>
+  <text x="26" y="112" fill="#a5a5b3" font-size="17" font-family="Inter, system-ui, sans-serif" font-weight="400">Reliable backend services for</text>
+  <text x="26" y="136" fill="#a5a5b3" font-size="17" font-family="Inter, system-ui, sans-serif" font-weight="400">AI-enabled applications.</text>
+  <text x="26" y="180" fill="#a5a5b3" font-size="17" font-family="Inter, system-ui, sans-serif" font-weight="400">Reproducible research experiments,</text>
+  <text x="26" y="204" fill="#a5a5b3" font-size="17" font-family="Inter, system-ui, sans-serif" font-weight="400">with evaluation and documentation.</text>
+  <rect x="26" y="224" width="100" height="29" rx="5" fill="#16161c" stroke="#292930" />
+  <text x="76.0" y="243" fill="#a5a5b3" font-size="12" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-weight="400" text-anchor="middle">Experiment</text>
+  <path d="M130 238h11m-4-4 4 4-4 4" fill="none" stroke="#dc2626" />
+  <rect x="145" y="224" width="100" height="29" rx="5" fill="#16161c" stroke="#292930" />
+  <text x="195.0" y="243" fill="#a5a5b3" font-size="12" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-weight="400" text-anchor="middle">Evaluate</text>
+  <path d="M249 238h11m-4-4 4 4-4 4" fill="none" stroke="#dc2626" />
+  <rect x="264" y="224" width="100" height="29" rx="5" fill="#16161c" stroke="#292930" />
+  <text x="314.0" y="243" fill="#a5a5b3" font-size="12" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-weight="400" text-anchor="middle">Build</text>
+</svg>

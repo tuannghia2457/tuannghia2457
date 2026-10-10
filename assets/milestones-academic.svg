@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="200" viewBox="0 0 390 200" role="img">
+  <title>Recognition in 2026</title>
+  <desc>Dean's List — UTS · Academic achievement (2026); Finalist — InnoStars &amp; Leave a Nest · AquaGuard (2026)</desc>
+  <rect width="390" height="200" rx="14" fill="#0d0d10" />
+  <path d="M342 22h20v20" stroke="#dc2626" stroke-width="1.5" fill="none" opacity="0.7" />
+  <path d="M26 28h12" stroke="#dc2626" stroke-width="2" />
+  <text x="48" y="32" fill="#a5a5b3" font-size="12" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-weight="400" letter-spacing="0.7">RECOGNITION / 2026</text>
+  <text x="26" y="76" fill="#f7f7fb" font-size="27" font-family="Inter, system-ui, sans-serif" font-weight="600">Dean's List</text>
+  <text x="26" y="101" fill="#a5a5b3" font-size="16" font-family="Inter, system-ui, sans-serif" font-weight="400">UTS · Academic achievement</text>
+  <text x="26" y="159" fill="#f7f7fb" font-size="27" font-family="Inter, system-ui, sans-serif" font-weight="600">Finalist</text>
+  <text x="26" y="184" fill="#a5a5b3" font-size="16" font-family="Inter, system-ui, sans-serif" font-weight="400">InnoStars &amp; Leave a Nest · AquaGuard</text>
+  <path d="M26 119H364" stroke="#292930" stroke-width="1" />
+</svg>

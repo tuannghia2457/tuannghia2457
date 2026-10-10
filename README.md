@@ -2,104 +2,45 @@
 
 <div align="center">
 
-<img width="100%" src="./assets/header.svg" alt="Tran Tuan Nghia — software engineer based in Ho Chi Minh City" />
+<picture><source media="(max-width: 600px)" srcset="./assets/header-mobile.svg" /><img width="100%" src="./assets/header.svg" alt="Tran Tuan Nghia — software engineer based in Ho Chi Minh City" /></picture>
 
-**AI Undergraduate @ UTS** · **Computer Vision & Robotics Research Assistant @ IVS**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-16161C?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuannghia2457/) [![Odylytics](https://img.shields.io/badge/Odylytics-16161C?style=for-the-badge&logo=googlechrome&logoColor=DC2626)](https://odylytics.com/) [![AquaGuard](https://img.shields.io/badge/AquaGuard-16161C?style=for-the-badge&logo=googlechrome&logoColor=DC2626)](https://aquaguard.vn/) [![LeetCode](https://img.shields.io/badge/LeetCode-16161C?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/ZCODgO0oKn/)
 
-**Co-Founder @ Odylytics**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuannghia2457/) [![Odylytics](https://img.shields.io/badge/Odylytics-151C35?style=for-the-badge&logo=googlechrome&logoColor=white)](https://odylytics.com/) [![AquaGuard](https://img.shields.io/badge/AquaGuard-008FAE?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aquaguard.vn/) [![LeetCode](https://img.shields.io/badge/LeetCode-0D0D10?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/ZCODgO0oKn/)
+<img width="390" align="top" src="./assets/about.svg" alt="AI undergraduate at UTS; Computer Vision and Robotics research assistant at IVS; co-founder at Odylytics. Working on perception, navigation, LiDAR, mapping and geometric reasoning for robots and UAVs." /> <img width="390" align="top" src="./assets/focus.svg" alt="Current focus: reliable backend services for AI-enabled applications and reproducible research experiments with clear evaluation and documentation." />
 
 </div>
 
-### `> about`
+<picture><source media="(max-width: 600px)" srcset="./assets/section-work-mobile.svg" /><img width="100%" src="./assets/section-work.svg" alt="01 — Selected work" /></picture>
 
-I work on perception and navigation for robots and UAVs, with interests in **computer vision, LiDAR, mapping, and geometric reasoning**. Alongside research, I build software that supports disaster response and everyday focus.
+<div align="center">
 
-### `> featured_projects`
+<a href="https://github.com/tuannghia2457/AquaGuard-WebApp"><img width="390" align="top" src="./assets/project-aquaguard.svg" alt="AquaGuard — a team project for flood alerts and rescue coordination: flood maps, GPS SOS requests, live rescue tracking and family safety updates. React, Node.js, Express, PostgreSQL and Firebase. Open web source." /></a> <a href="https://github.com/tuannghia2457/Hackathon-ANT"><img width="390" align="top" src="./assets/project-ant.svg" alt="VirtualDouble / ANT — a hackathon focus companion using optional on-device face landmarks, supportive check-ins, task breakdown, a floating focus window and a recovery workspace. Camera frames stay on device. Next.js, TypeScript, MediaPipe and Web Audio. Open source." /></a>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+[**AquaGuard · Live ↗**](https://aquaguard.vn/) · [Business model ↗](https://github.com/tuannghia2457/BMC_AquaGuard) · [**VirtualDouble · Demo ↗**](https://adc-hackathon-ant.vercel.app/)
 
-#### AquaGuard
+<img width="390" align="top" src="./assets/project-uav.svg" alt="UAV Localization — research prototype in progress. Exploring canopy features and geometric matching to estimate position in forest environments where GNSS is unavailable or unreliable. C++, Python, computer vision and geometry." /> <img width="390" align="top" src="./assets/research.svg" alt="Pothole surface reconstruction — research presented at CTMIA 2026. The wireframe is an illustration of the topic." />
 
-**Flood alerts & rescue coordination**
+</div>
 
-A team project connecting citizens, rescuers, and administrators through flood maps, GPS-based SOS requests, live rescue tracking, and family safety updates.
+<picture><source media="(max-width: 600px)" srcset="./assets/section-stack-mobile.svg" /><img width="100%" src="./assets/section-stack.svg" alt="02 — Tech stack" /></picture>
 
-`React` · `Node.js` · `Express` · `PostgreSQL` · `Firebase`
+<div align="center">
 
-[**Live platform ↗**](https://aquaguard.vn/) · [**Web source ↗**](https://github.com/tuannghia2457/AquaGuard-WebApp) · [**Business model ↗**](https://github.com/tuannghia2457/BMC_AquaGuard)
+<img width="390" align="top" src="./assets/skills.svg" alt="Languages: Python, C++, TypeScript, JavaScript, Java and SQL. SQL uses a generic database symbol." /> <img width="390" align="top" src="./assets/stack-vision.svg" alt="AI, vision and robotics: PyTorch, OpenCV, MediaPipe, ROS 2, Gazebo, Nav2 and RViz." />
 
-</td>
-<td width="50%" valign="top">
+<img width="390" align="top" src="./assets/stack-web.svg" alt="Web and backend: React, Next.js, Node.js, Express, PostgreSQL and Firebase." /> <img width="390" align="top" src="./assets/stack-tools.svg" alt="Development: Git, Linux, Docker and Playwright." />
 
-#### VirtualDouble / ANT
+</div>
 
-**A focus companion with browser-side vision**
+<picture><source media="(max-width: 600px)" srcset="./assets/section-recognition-mobile.svg" /><img width="100%" src="./assets/section-recognition.svg" alt="03 — Recognition" /></picture>
 
-A hackathon project with optional, on-device face landmarks, supportive check-ins, task breakdown, a floating focus window, and a recovery workspace. Camera frames stay on the device.
+<div align="center">
 
-`Next.js` · `TypeScript` · `MediaPipe` · `Web Audio`
+<img width="390" align="top" src="./assets/milestones-projects.svg" alt="2026: 1st Place at EPICS Season 8 and First Runner-Up at Bach Khoa Innovation, with AquaGuard." /> <img width="390" align="top" src="./assets/milestones-academic.svg" alt="2026: UTS Dean's List for academic achievement; AquaGuard finalist at InnoStars and Leave a Nest." />
 
-[**Live demo ↗**](https://adc-hackathon-ant.vercel.app/) · [**Source ↗**](https://github.com/tuannghia2457/Hackathon-ANT)
+</div>
 
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-#### UAV Localization
-
-**Research prototype · In progress**
-
-Exploring vision-based UAV localization in forest environments where GNSS is unavailable or unreliable, using canopy features and geometric matching to estimate position.
-
-`C++` · `Python` · `Computer Vision` · `Geometry`
-
-</td>
-</tr>
-</table>
-
-### `> research`
-
-**Pothole surface reconstruction** — Research presented at CTMIA 2026.
-
-### `> tech_stack`
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=py,cpp,ts,pytorch,opencv,react,nextjs,nodejs,postgres,docker,linux,git&theme=dark&perline=6" alt="Python, C++, TypeScript, PyTorch, OpenCV, React, Next.js, Node.js, PostgreSQL, Docker, Linux, and Git" />
-</p>
-
-<details>
-<summary><b>Full stack by domain</b></summary>
-
-| Area | Languages & tools |
-| :--- | :--- |
-| Languages | Python · C++ · TypeScript · JavaScript · Java · SQL |
-| AI & computer vision | PyTorch · OpenCV · MediaPipe |
-| Robotics & simulation | ROS 2 · Nav2 · Gazebo · RViz |
-| Web & backend | React · Next.js · Node.js · Express · PostgreSQL · Firebase |
-| Development | Git · Linux · Docker · Playwright |
-
-</details>
-
-### `> milestones`
-
-| Highlight | Recognition |
-| :--- | :--- |
-| **EPICS Season 8** | **1st Place** — AquaGuard (2026) |
-| **Bach Khoa Innovation** | **First Runner-Up** — AquaGuard (2026) |
-| **UTS Dean's List** | Academic achievement (2026) |
-| **InnoStars & Leave a Nest** | Finalist — AquaGuard (2026) |
-
-### `> current_focus`
-
-- Building reliable **backend services** for AI-enabled applications.
-- Turning research prototypes into **reproducible experiments** with clear evaluation and documentation.
-
-### `> coding_activity`
+<picture><source media="(max-width: 600px)" srcset="./assets/gh-stats-mobile.svg" /><img width="100%" src="./assets/gh-stats.svg" alt="04 — Coding activity" /></picture>
 
 <div align="center">
 
@@ -108,20 +49,14 @@ Exploring vision-based UAV localization in forest environments where GNSS is una
 
 </div>
 
-#### LeetCode
-
-Solved problems by difficulty and submission activity over the last 52 weeks.
-
 <div align="center">
 
 <a href="https://leetcode.com/u/ZCODgO0oKn/"><img width="500" src="https://leetcard.jacoblin.cool/ZCODgO0oKn?theme=dark&font=Inter&ext=heatmap&border=0&radius=14&animation=false&hide=ranking&colors=0d0d10,17171c,f7f7fb,a5a5b3,dc2626,22c55e,f59e0b,dc2626" alt="LeetCode solved-problem statistics and submission heatmap for ZCODgO0oKn" /></a>
 
 </div>
 
----
-
 <div align="center">
 
-<img width="100%" src="./assets/footer.svg" alt="Made with heart by Tran Tuan Nghia" />
+<picture><source media="(max-width: 600px)" srcset="./assets/footer-mobile.svg" /><img width="100%" src="./assets/footer.svg" alt="Made with heart by Tran Tuan Nghia" /></picture>
 
 </div>

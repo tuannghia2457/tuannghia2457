@@ -1,13 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="300" viewBox="0 0 800 300">
   <style>
     .name, .meta { opacity: 1; }
-    .underline { animation: underlineDraw 5s ease-out infinite; transform-origin: left center; }
+    .underline { animation: accentPulse 5s ease-in-out infinite; }
     .corner { animation: cornerSlide 5s ease-out infinite; }
 
-    @keyframes underlineDraw {
-      0%, 14% { transform: scaleX(0); }
-      24%, 88% { transform: scaleX(1); }
-      100% { transform: scaleX(1); }
+    @keyframes accentPulse {
+      0%, 100% { opacity: 0.65; }
+      50% { opacity: 1; }
     }
     @keyframes cornerSlide {
       0%, 8% { opacity: 0; transform: translateX(-8px); }
