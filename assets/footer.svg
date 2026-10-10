@@ -1,21 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="160" viewBox="0 0 800 160">
   <style>
-    
-    .signoff { animation: signoffIn 5s ease-in-out infinite; }
-    .soc { animation: socfade 5s ease-in-out infinite; }
-    .sf0 { animation-delay: 0.60s }
-
-    @keyframes signoffIn {
-      0%, 8% { opacity: 0; transform: translateY(4px); }
-      18%, 90% { opacity: 1; transform: translateY(0); }
-      100% { opacity: 0; transform: translateY(0); }
-    }
-    @keyframes socfade {
-      0%, 22% { opacity: 0; }
-      32%, 90% { opacity: 1; }
-      100% { opacity: 0; }
-    }
-  
+    .signoff, .soc { opacity: 1; }
     .heart { animation: heartbeat 5s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
     .wave-front { animation: drift-front 5s linear infinite; }
     .wave-back { animation: drift-back 5s linear infinite; }
@@ -34,6 +19,9 @@
     @keyframes drift-back {
       from { transform: translateX(0); }
       to { transform: translateX(256px); }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .heart, .wave-front, .wave-back { animation: none; }
     }
   </style>
   <defs>
@@ -74,7 +62,7 @@
   </g>
 
   <!-- Sign-off line -->
-  <text class="signoff" x="400" y="69" text-anchor="middle" fill="#f7f7fb" font-family='"Inter", system-ui, sans-serif' font-size="12" font-weight="500">made with <tspan class="heart" fill="#dc2626">♥</tspan> by Tran Tuan Nghia - AI/ML Student @ UTS • Research Assistant @ IVS Machine Learning • Computer…</text>
+  <text class="signoff" x="400" y="69" text-anchor="middle" fill="#f7f7fb" font-family='"Inter", system-ui, sans-serif' font-size="12" font-weight="500">made with <tspan class="heart" fill="#dc2626">♥</tspan> by Tran Tuan Nghia</text>
 
   <g transform="translate(303.5 93)">
         <g class="soc sf0">
