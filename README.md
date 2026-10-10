@@ -1,10 +1,13 @@
+
 <!-- GitHub Profile README | github.com/tuannghia2457 -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1026,45:17365D,100:6246EA&height=210&section=header&text=NGHIA%20TUAN%20TRAN&fontSize=43&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Computer%20Vision%20%E2%80%A2%20Robotics%20%E2%80%A2%20AI%20Engineering&descAlignY=59&descSize=17" alt="Nghia Tuan Tran — Computer Vision, Robotics, AI Engineering" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1026,45:17365D,100:6246EA&height=210&section=header&text=TRAN%20TUAN%20NGHIA&fontSize=43&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Computer%20Vision%20%E2%80%A2%20Robotics%20%E2%80%A2%20AI%20Engineering&descAlignY=59&descSize=17" alt="Tran Tuan Nghia — Computer Vision, Robotics, AI Engineering" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2900&pause=900&color=58D7FF&center=true&vCenter=true&width=730&lines=Turning+perception+into+real-world+impact.;Building+human-centered+AI+systems.;Researching+robots%2C+vision+%26+intelligent+software.;Curious+mind.+Builder+mindset." alt="Animated introduction" /></a>
+
+</div>
 
 **AI Undergraduate @ UTS** &nbsp;·&nbsp; **Computer Vision & Robotics Research Assistant @ IVS**  
 **Co-Founder @ Odylytics** &nbsp;·&nbsp; Ho Chi Minh City, Vietnam 🇻🇳
